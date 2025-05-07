@@ -4,6 +4,8 @@
 
 ✨ I am always looking for new opportunities to collaborate and learn, so please contact me if you are interested in working together.
 
+📫 How to reach me: lizahisan@gmail.com
+
 <!--
 **LizaHisan/LizaHisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
