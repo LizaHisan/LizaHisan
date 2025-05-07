@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋  I'm Liza Hisan
+
+🌱 Becoming a data professional is one of my dreams. I love data processing and research. Although my educational background is in healthcare, I am committed and passionate about continuing to learn and grow in the world of data by becoming a data analyst, data scientist, or data engineer.
+
+✨ I am always looking for new opportunities to collaborate and learn, so please contact me if you are interested in working together.
 
 <!--
 **LizaHisan/LizaHisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
